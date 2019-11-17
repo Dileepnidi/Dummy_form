@@ -3,7 +3,7 @@
 $name = $_POST['name'];
 $request = $_POST['request'];
 
-$to = "dilepkumar234@gmail.com";
+$to = "dileep.nidiginti@nagra.com";
 $subject = "php request";
 $body = "Hi, its requetsed";
 
